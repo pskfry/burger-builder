@@ -67,15 +67,10 @@ node_modules/
 # firebase config folders
 .firebaserc
 .DS_Store
+firebase.json
 
 # build folder
 build
 
-
-firebase.json
-
-scripts/build.js
-
-scripts/start.js
-
+# scripts folder
 scripts/
